@@ -10,7 +10,7 @@ HTML5
 
 CSS3
 
-JavaScript (если есть)
+JavaScript
 
 Адаптивная вёрстка
 
